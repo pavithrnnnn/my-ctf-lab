@@ -1,0 +1,17 @@
+Challenge name :The Cipher Bunker
+
+-------------------------------------------
+One sentence, a failsafe message that only the inner dev circle knew, was hardcoded into the core systems following a failed 
+experiment deep within the MOU53 dev bunker.
+The actual identity of the bunker's final protocol is contained in this phrase, which is currently hidden beneath layers of 
+legacy code and defunct terminals.
+-----------------------------------------------------------------
+FLAG:ThunderCipher{m0u53_5ecret_d3vD00m}
+
+Category:Easy
+WriteUP:
+
+>>>>>Use Ghidra to analyse thr executable...
+>>>>>The program is a simple xor where it take the flag as input and checks if the stored result equals to the xored answer with 
+the key present ....
+>>>>>Use the reverse XOR logic to get the flag
