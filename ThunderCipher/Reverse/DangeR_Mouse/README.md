@@ -1,6 +1,6 @@
 # 🕵️ The Cipher Bunker  
 
-**Difficulty:**  🟢 EASY | **Category:** Crypto / Forensics  
+**Difficulty:**  🟢 VERY EASY | **Category:** Crypto / Forensics  
 
 ---
 
